@@ -1,0 +1,16 @@
+Platform,Sentiment,Count
+Facebook,Negative,246
+Facebook,Neutral,262
+Facebook,Positive,269
+Facebook,Very Negative,14
+Facebook,Very Positive,6
+Instagram,Negative,271
+Instagram,Neutral,259
+Instagram,Positive,290
+Instagram,Very Negative,5
+Instagram,Very Positive,11
+Twitter,Negative,272
+Twitter,Neutral,276
+Twitter,Positive,245
+Twitter,Very Negative,9
+Twitter,Very Positive,12
